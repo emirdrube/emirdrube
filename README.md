@@ -1,17 +1,23 @@
-Hi 👋 My name is Emir Drube
-===========================
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"/>
+  <h1>
+  hey
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div id="badges" align="center">
 
-Software Engineer
------------------
+</div>
 
-Computer Engineer who is working as a software engineer. I'm a person passionate about technology and quality, always predisposed to learn something new. In my experience I've assimilated that team work, communication habilities and proactivity are aspects of my person that define me.
+My name is Emir Drube, I'm a computer engineer from Argentina who is working as a software engineer. I'm a person passionate about technology and quality, always predisposed to learn something new. 
 
-* 🌍  I'm based in Argentina
 * ✉️  You can contact me at [emirdrube@gmail.com](mailto:emirdrube@gmail.com)
-* 🧠  I'm learning Web3
-* ⚡  I love football and videogames!
+* 🚀  I'm currently working at [Kin + Carta](https://www.kinandcarta.com/en/) contributing to frontend and backend web apps.
+* ⚡  In my free time I love watching/playing football or videogames!
 
-### Skills
+---
+
+### Main skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,7 +34,23 @@ Computer Engineer who is working as a software engineer. I'm a person passionate
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+---
+
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emirdrube&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/emirdrube" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emirdrube" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/emirdrube/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+---
+
+### Thank you!
+
+If you are reading this, it means that you read all my profile. Thank you for that! Here is a dev joke to light up your day
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
